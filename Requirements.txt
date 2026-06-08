@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+langchain
+langchart
+google-generativeai
